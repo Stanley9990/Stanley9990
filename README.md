@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Stanley9990
-- 👀 I’m interested in Programming, Penetration testing and Cyber security
-- 🌱 I’m currently learning cyber security and ethical hacking, as well as a variety of programming languages and other topics.
-- 📫 Discord: Stanley#0877
+<h1>Stanley9990</h1>
 
+- Cyber security student
+
+<p align="center">
+  <script src="https://tryhackme.com/badge/232412"></script>
+  <script src="https://www.hackthebox.eu/badge/362032"></script>
+</p>
