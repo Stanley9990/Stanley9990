@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **Rust, OT and Pentesting**
 
-- 📫 How to reach me **Discord:Stanley9990**
+- 📫 How to reach me **Discord: Stanley9990**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
